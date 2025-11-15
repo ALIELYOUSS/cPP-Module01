@@ -4,5 +4,5 @@ int main(void)
 {
     Harl hr;
 
-    hr.complain("INVALID");
+    hr.complain("INFO");
 }
